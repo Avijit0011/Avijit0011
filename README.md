@@ -1,4 +1,4 @@
-# Hi there, I'm Avijit 👋
+# Hi there, I'm Avijit ^_^
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub Activity Koi" /><br/>
